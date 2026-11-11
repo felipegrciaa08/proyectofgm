@@ -1,0 +1,14 @@
+.employee-card {
+  border: 1px solid black;
+  padding: 1.5rem;
+  margin: 1.5rem;
+  min-width: 15rem;
+}
+
+.employee-nombre {
+  margin: 0.5rem;
+}
+
+.employee-dato {
+  margin: 0.5rem;
+}

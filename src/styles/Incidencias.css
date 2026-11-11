@@ -1,0 +1,11 @@
+.incidencias-boton {
+  padding: 1.25rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  margin-left: 1.5rem;
+}
+
+.incidencias-lista {
+  display: flex;
+  flex-wrap: wrap;
+}

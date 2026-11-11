@@ -1,0 +1,24 @@
+.incident-card {
+  border: 1px solid black;
+  padding: 1rem;
+  margin: 1.5rem;
+  width: 15rem;
+}
+
+.incident-card--resuelta {
+  background-color: #d4edda;
+}
+
+.incident-card--pendiente {
+  background-color: #f8d7da;
+}
+
+.incident-titulo {
+  margin: 0.5rem;
+  font-size: 1rem;
+}
+
+.incident-estado {
+  margin: 0.5rem;
+  font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.sidebar {
+    background-color: #272e61;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    gap: 1rem;
+}
+
+.sidebar button {
+    padding: 1.5rem;
+}

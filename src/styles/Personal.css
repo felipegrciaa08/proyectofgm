@@ -1,0 +1,21 @@
+.personal-controles {
+  margin-bottom: 1rem;
+  display: flex;
+  gap: 2rem;
+  margin-left: 1.5rem;
+}
+
+.personal-boton {
+  padding: 1.25rem;
+  cursor: pointer;
+}
+
+.personal-buscador {
+  padding: 1rem;
+  width: 20rem;
+}
+
+.personal-lista {
+  display: flex;
+  flex-wrap: wrap;
+}
